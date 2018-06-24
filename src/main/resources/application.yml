@@ -1,0 +1,8 @@
+endpoints.health.sensitive: true
+#management.security.enabled: false
+#配置日志
+logging:
+  #配置日志文件路径
+ # path: G:\work_space\study_spring2\study_boot_demo\log
+  level:
+    root: log
